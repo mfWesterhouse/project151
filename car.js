@@ -1,4 +1,4 @@
-AFRAME.registerComponent("car-model", {
+AFRAME.registerComponent("car", {
   schema: {
     modelRef: { type: "string", default: "project151.glb" }
   },
